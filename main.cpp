@@ -3,7 +3,7 @@
 #include<iostream>
 // This header file is used to handle the data from a file as input or output.
 using namespace std;
-// Namespace defines library of terms. std is the standard library. Helps to avoid overlap of variables from different name libraries.
+// Namespace defines a library of terms. std is the standard library. Helps to avoid overlap of variables from different name libraries.
 class AreaCirc
 // I made mine using class.
 {
